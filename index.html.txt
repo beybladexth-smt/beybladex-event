@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Beyblade X Scoreboard</title>
+  <style>
+    body {
+      font-family: 'Poppins', sans-serif;
+      background: radial-gradient(circle at center, #0a0a0a, #1a1a1a);
+      color: white;
+      text-align: center;
+      padding: 40px;
+    }
+    h1 {
+      color: #ff1744;
+      text-shadow: 0 0 15px #ff1744;
+    }
+    iframe {
+      width: 95%;
+      height: 90vh;
+      border: 2px solid #ff1744;
+      border-radius: 20px;
+      box-shadow: 0 0 25px rgba(255, 23, 68, 0.5);
+    }
+  </style>
+</head>
+<body>
+  <h1>⚔️ BEYBLADE X - SCOREBOARD ⚔️</h1>
+  <iframe src="https://script.google.com/macros/s/AKfycbxgP-X5_Pgh8xmHabP7vjKReqIpiHg236ngWcrFFZ4vp926jzmrgbpzPjPpoHra0XMB8w/exec"></iframe>
+</body>
+</html>
